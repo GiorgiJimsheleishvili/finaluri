@@ -17,7 +17,6 @@ body {
     background-size: cover;
 }
 
-/* Navigation */
 nav {
     display: flex;
     justify-content: space-between;
@@ -52,14 +51,14 @@ nav {
     color: #ffcc00;
 }
 
-/* Burger Menu */
+
 .burger {
     display: none;
     font-size: 28px;
     cursor: pointer;
 }
 
-/* Hero Section */
+
 .hero {
     background: linear-gradient(to right, #667eea, #764ba2);
     color: white;
@@ -88,7 +87,7 @@ nav {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-/* Contact Form */
+
 form {
     background: white;
     padding: 25px;
@@ -162,7 +161,7 @@ button:hover {
 }
 
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
